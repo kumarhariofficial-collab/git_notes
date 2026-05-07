@@ -21,17 +21,3 @@ This repository contains beginner-friendly Python programs created using Jupyter
 
 - Python 3
 - Jupyter Notebook
-
-## 📂 Repository Structure
-
-```bash
-Python-Basic-Programming/
-│
-├── Basics/
-├── Loops/
-├── Functions/
-├── DataStructures/
-├── FileHandling/
-├── OOP/
-├── Projects/
-└── README.md
